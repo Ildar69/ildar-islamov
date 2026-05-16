@@ -4,7 +4,7 @@
 
 ---
 
-## System Analyst · Analyst-Developer · Almaty, Kazakhstan
+## System Analyst · Analyst-Developer · Almaty, Kazakhstan · Open to relocation
 
 Not a classic specialist with certificates — someone who sees a problem and builds a solution from scratch to production.
 
@@ -79,7 +79,7 @@ Python · Django · PostgreSQL · DRF · JavaScript · Google Apps Script · Tel
 
 ---
 
-## Системный аналитик · Аналитик-разработчик · Алматы, Казахстан
+## Системный аналитик · Аналитик-разработчик · Алматы, Казахстан · Готов к релокации
 
 Не классический специалист с сертификатами — человек, который видит проблему и строит решение с нуля до результата.
 
