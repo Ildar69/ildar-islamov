@@ -40,15 +40,16 @@ Quality monitoring platform for 2 automotive paint shops across 7 production lin
 
 ---
 
-### 🖥️ Engineering Operations Portal (v1.1)
-Internal platform for the engineering department replacing messengers and spreadsheets.
+### 🏭 QPM — Quality Production Monitor
+Modular production management platform built solo and deployed at an automotive manufacturing facility in Kazakhstan.
 
-- Kanban with drag & drop, 5-level role system
-- 3 notification channels in parallel: Web Push + Telegram bot + in-app
-- PWA — installable on any device
-- Stack: Python, Django 5.2, DRF, PostgreSQL, JavaScript
+- 7 modules: quality control, defect tracking, registries, task manager, staff, docs, analytics
+- Defect registration with analytics and XLSX export across production lines
+- Custom registry builder — users create their own data structures with balance tracking
+- Built-in chat, push notifications, QR scanner, global search
+- Stack: Python, Django 5.2, DRF, PostgreSQL, Vanilla JS, Railway, Backblaze B2
 
-🔗 [Demo instance](https://engineering-platform-production.up.railway.app) *(production runs on internal server)*
+🔗 [Live Demo](https://qpm-app.up.railway.app) · 📄 [Case Study](https://github.com/Ildar69/qpm-showcase)
 
 ---
 
@@ -103,15 +104,16 @@ Python · Django · PostgreSQL · DRF · JavaScript · Google Apps Script · Tel
 
 ## Проекты
 
-### 🏭 Система мониторинга качества ЛКП
-Платформа контроля качества для 2 цехов окраски на 7 производственных линиях. Построена одним человеком за месяц.
+### 🏭 QPM — Quality Production Monitor
+Модульная платформа управления производством — разработана и внедрена на автомобильном заводе в Казахстане.
 
-- 350+ записей в день, нулевая ручная агрегация
-- Детекция аномалий в реальном времени — алерты за минуты
-- Автоматические посменные отчёты: DPU, DPR, динамика, разбивка по моделям
-- Стек: Google Apps Script, PostgreSQL, Looker Studio, AppSheet
+- 7 модулей: контроль качества, дефекты, реестры, таск-менеджер, сотрудники, документы, аналитика
+- Регистрация дефектов с аналитикой и экспортом в XLSX по линиям производства
+- Конструктор реестров — пользователь сам создаёт структуру таблиц с учётом остатков
+- Встроенный чат, push-уведомления, QR-сканер, глобальный поиск
+- Стек: Python, Django 5.2, DRF, PostgreSQL, Vanilla JS, Railway, Backblaze B2
 
-📄 [Подробный кейс](https://github.com/Ildar69/Manufacturing-Quality-Monitoring-System)
+🔗 [Демо](https://qpm-app.up.railway.app) · 📄 [Кейс](https://github.com/Ildar69/qpm-showcase)
 
 ---
 
