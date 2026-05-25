@@ -40,7 +40,7 @@ Quality monitoring platform for 2 automotive paint shops across 7 production lin
 
 ---
 
-### 🏭 QPM — Quality Production Monitor
+### 💻 QPM — Quality Production Monitor
 Modular production management platform built solo and deployed at an automotive manufacturing facility in Kazakhstan.
 
 - 7 modules: quality control, defect tracking, registries, task manager, staff, docs, analytics
@@ -104,7 +104,19 @@ Python · Django · PostgreSQL · DRF · JavaScript · Google Apps Script · Tel
 
 ## Проекты
 
-### 🏭 QPM — Quality Production Monitor
+### 🏭 Система мониторинга качества ЛКП
+Платформа контроля качества для 2 цехов окраски на 7 производственных линиях. Построена одним человеком за месяц.
+
+- 350+ записей в день, нулевая ручная агрегация
+- Детекция аномалий в реальном времени — алерты за минуты
+- Автоматические посменные отчёты: DPU, DPR, динамика, разбивка по моделям
+- Стек: Google Apps Script, PostgreSQL, Looker Studio, AppSheet
+
+📄 [Подробный кейс](https://github.com/Ildar69/Manufacturing-Quality-Monitoring-System)
+
+---
+
+### 💻 QPM — Quality Production Monitor
 Модульная платформа управления производством — разработана и внедрена на автомобильном заводе в Казахстане.
 
 - 7 модулей: контроль качества, дефекты, реестры, таск-менеджер, сотрудники, документы, аналитика
@@ -114,18 +126,6 @@ Python · Django · PostgreSQL · DRF · JavaScript · Google Apps Script · Tel
 - Стек: Python, Django 5.2, DRF, PostgreSQL, Vanilla JS, Railway, Backblaze B2
 
 🔗 [Демо](https://qpm-app.up.railway.app) · 📄 [Кейс](https://github.com/Ildar69/qpm-showcase)
-
----
-
-### 🖥️ Операционный портал для инженерного отдела (v1.1)
-Внутренняя платформа заменившая мессенджеры и таблицы.
-
-- Kanban с drag & drop, система ролей (5 уровней)
-- 3 канала уведомлений параллельно: Web Push + Telegram бот + in-app
-- PWA — устанавливается на любое устройство
-- Стек: Python, Django 5.2, DRF, PostgreSQL, JavaScript
-
-🔗 [Демо](https://engineering-platform-production.up.railway.app) *(рабочий инструмент развёрнут на внутреннем сервере)*
 
 ---
 
